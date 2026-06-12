@@ -83,28 +83,25 @@ currency-converter-chatbot/
 
 ### 1. Clone the Repository
 
-
 git clone https://github.com/Ashish-1628e/currency-converter-chatbot.git
 cd currency-converter-chatbot
 
 
 ### 2. Install Dependencies
 
-```bash
 pip install -r requirements.txt
-```
+
 
 ### 3. Run Flask Application
 
-```bash
 python app.py
-```
+
 
 ### 4. Start ngrok
 
-```bash
+
 ngrok http 5000
-```
+
 
 ### 5. Configure Dialogflow Webhook
 
@@ -114,25 +111,31 @@ Paste the ngrok HTTPS URL into the Dialogflow Fulfillment Webhook settings.
 
 ## 📸 Screenshots
 
-### Telegram Bot D<img width="1247" height="968" alt="telegram-bot-talks png" src="https://github.com/user-attachments/assets/83538511-ab42-4eea-b787-208a51c87cd9" />
-emo
+### Telegram Bot D
 
+<img width="600" height="800" alt="telegram-bot-talks png" src="https://github.com/user-attachments/assets/83538511-ab42-4eea-b787-208a51c87cd9" />
 
-Add screenshot here
+### Conversion Example
+
+<img width="1200" height="1400" alt="multiple-conversions png" src="https://github.com/user-attachments/assets/cbfa14c8-598e-4933-960b-cf47fbdb1890" />
+
 
 ### Dialogflow Intent
 
-Add screenshot here
+<img width="1000" height="1200" alt="dialogflow-intent png" src="https://github.com/user-attachments/assets/cbc268ad-310e-48b5-baf9-adcaeb408bc3" />
 
 ### Entity Extraction
 
-Add screenshot here
+<img width="1000" height="1200" alt="entity-extraction png" src="https://github.com/user-attachments/assets/1bc30e10-3d81-4a50-85ed-1a3436e4335f" />
 
-### System Architecture
+### Flask Webhook
 
-Add screenshot here
+<img width="1000" height="1200" alt="flask-webhook png" src="https://github.com/user-attachments/assets/4be23f11-9608-446a-b327-d69829e191ae" />
 
----
+### Telegram Integration
+
+<img width="1000" height="1200" alt="telegram-integration png" src="https://github.com/user-attachments/assets/fee901d0-e74f-43c2-a831-cbd3ede0cfdf" />
+
 
 ## 🎯 Learning Outcomes
 
